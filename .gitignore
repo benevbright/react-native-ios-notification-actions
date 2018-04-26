@@ -30,3 +30,4 @@ node_modules
 
 #XCode
 xcschememanagement.plist
+*.xcscheme
